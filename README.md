@@ -3,4 +3,4 @@
 1.  Я учусь в [Нетологии](https://netology.ru/)
 2.  Сейчас я работаю в банке.
    
-![IMG_2563](https://github.com/user-attachments/assets/be111b3f-2ccc-43b1-839f-c0f45954aa65)
+![IMG_9444](https://github.com/user-attachments/assets/385b991e-431e-4507-bae6-aae8aa87f91f)
